@@ -1,2 +1,0 @@
-# desenvolvimento-industrial
-pipeline completo
